@@ -13,8 +13,9 @@ chatbots into software that ships.
 
 | | |
 |---|---|
-| **[commit-forge](https://github.com/connectjackofficial-source/commit-forge)** | Turn an agent's messy diffs into conventional commits, review-ready PRs, and changelogs. |
-| **[agentbill](https://github.com/connectjackofficial-source/agentbill)** | Track token usage and cost across Claude Code, Cursor, Codex, and other AI coding agents. Zero-config, terminal-first. |
+| **[commit-forge](https://github.com/connectjackofficial-source/commit-forge)** | Agent skill: turn messy diffs into conventional commits, review-ready PRs, and changelogs. |
+| **[agent-memory](https://github.com/connectjackofficial-source/agent-memory)** | Local-first MCP server that gives coding agents persistent long-term memory across sessions. |
+| **[agentbill](https://github.com/connectjackofficial-source/agentbill)** | Track token usage and cost across Claude Code, Cursor, Codex, and other AI coding agents. |
 
 ---
 
