@@ -13,9 +13,13 @@ chatbots into software that ships.
 
 | | |
 |---|---|
-| **[commit-forge](https://github.com/connectjackofficial-source/commit-forge)** | Agent skill: turn messy diffs into conventional commits, review-ready PRs, and changelogs. |
-| **[agent-memory](https://github.com/connectjackofficial-source/agent-memory)** | Local-first MCP server that gives coding agents persistent long-term memory across sessions. |
-| **[agentbill](https://github.com/connectjackofficial-source/agentbill)** | Track token usage and cost across Claude Code, Cursor, Codex, and other AI coding agents. |
+| **[commit-forge](https://github.com/connectjackofficial-source/commit-forge)** | Agent skill: conventional commits, review-ready PRs, changelogs. |
+| **[agent-memory](https://github.com/connectjackofficial-source/agent-memory)** | Local-first MCP server: persistent memory for coding agents. |
+| **[repomap](https://github.com/connectjackofficial-source/repomap)** | AST-based codebase scanner that generates a compact CONTEXT.md for AI agents. |
+| **[llm-trace](https://github.com/connectjackofficial-source/llm-trace)** | Lightweight LLM call observability: prompts, tokens, latency in SQLite. |
+| **[prompt-eval](https://github.com/connectjackofficial-source/prompt-eval)** | Tiny framework for evaluating prompts against test cases. |
+| **[llm-cache](https://github.com/connectjackofficial-source/llm-cache)** | Local response cache for LLM calls — save tokens, save money. |
+| **[agent-router](https://github.com/connectjackofficial-source/agent-router)** | Route LLM calls to the cheapest model that can handle the task. |
 
 ---
 
