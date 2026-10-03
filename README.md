@@ -3,7 +3,7 @@
 I build developer tools for the agent era — things that turn LLMs from
 chatbots into software that ships.
 
-- 🔭 Currently working on: open-source tooling for AI coding agents
+- 🔭 Currently working on: open-source tooling for AI coding agents and LLM infrastructure
 - 🛠️ Stack: Python, TypeScript, and whatever the model needs
 - ✍️ Writing about agent workflows, dev tooling, and making AI output production-grade
 
