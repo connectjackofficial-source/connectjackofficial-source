@@ -20,6 +20,8 @@ chatbots into software that ships.
 | **[prompt-eval](https://github.com/connectjackofficial-source/prompt-eval)** | Tiny framework for evaluating prompts against test cases. |
 | **[llm-cache](https://github.com/connectjackofficial-source/llm-cache)** | Local response cache for LLM calls — save tokens, save money. |
 | **[agent-router](https://github.com/connectjackofficial-source/agent-router)** | Route LLM calls to the cheapest model that can handle the task. |
+| **[prompt-optimizer](https://github.com/connectjackofficial-source/prompt-optimizer)** | Analyze prompts and suggest improvements: role, examples, vague words. |
+| **[token-counter](https://github.com/connectjackofficial-source/token-counter)** | Estimate token count and cost for prompts. |
 
 ---
 
